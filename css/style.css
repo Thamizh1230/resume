@@ -1,0 +1,182 @@
+*{
+	box-sizing:border-box;
+}
+
+body
+{
+	background-color:white;
+	font-family:sans-serif;
+}
+.container
+{
+	width:1000px;
+	background-color:#fff;
+	margin:0 auto;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-family:sans-serif;
+}
+ .header
+{
+	display:flex;
+	align-items:center;
+} 
+
+.flex-container{
+	display:flex;
+	background-color:white;
+	flex-flow:1;
+	align-items:center;
+	
+}
+
+.flex-container .college-mark
+{
+	width: 100px;
+    height: 100px;
+    color: black;
+    background-color: #736d6d14;
+    font-size: 13px;
+	text-align:center;
+}	
+
+
+
+.flex-container .twelth-mark
+{
+	width: 100px;
+    height: 100px;
+    color: black;
+    background-color: #736d6d14;
+    font-size: 13px;
+	text-align:center;
+}
+
+.flex-container .tenth-mark
+{
+	width: 100px;
+    height: 100px;
+    color: black;
+    background-color: #736d6d14;
+    font-size: 13px;
+	text-align:center;
+}
+
+
+.user-action
+{
+	font-family: sans-serif;
+	flex-grow:1;
+ 	padding-left:30px;
+}
+.user-action h1
+{
+	padding-bottom:15px;
+	border-bottom-style:solid;
+	border-color:#bfb5b51a;
+	
+}
+.user-nav
+{
+	padding-top:5px;
+	
+}
+.user-nav span
+{
+	    
+		padding:10px 10px;
+		
+}
+
+.info{
+	
+	text-align:center;
+	background-color:black;
+}
+
+.info .title h3
+{
+color:#dacfcf54;
+padding-top:20px;
+font-size:10px;
+
+}
+
+
+.info .title h1
+{	
+	color:white;
+	font-size:30px;
+	margin-top:10px;
+}
+
+.info .title h2
+{
+	color:gray;
+	font-size:15px;
+	padding-top:5px;
+}
+.info .title a
+{
+	display: inline-block;
+	color:white;	
+	border-style:ridge;
+	padding:10px 10px;
+	font-size:10px;
+	margin-bottom:35px;
+		
+	
+}
+
+
+
+.skill span
+
+{
+	padding: 20px 20px;
+	color:gray;
+	
+}
+.education
+{
+	font-family: sans-serif;
+
+}
+.project
+{
+	font-family: sans-serif;
+}
+.project .project1 h5
+{
+color:gray;
+}
+.project .project1 p
+{
+	color:gray:
+}
+
+.project .project2 h5
+{
+color:gray;
+}
+.project .project2 p
+{
+	color:gray:
+}
+
+.project .project3 h5
+{
+color:gray;
+}
+.project .project3 p
+{
+	color:gray:
+}
+
+.contact .footer
+{
+	width:10px;
+	margin:4px 10px;
+}
