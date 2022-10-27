@@ -184,6 +184,7 @@ font-size:10px;
 
 {
 	flex-grow:1;
+	margin-bottom:40px;
 	
 	padding-bottom:20px;	
 	border-left:2px solid #6254541f;
@@ -214,7 +215,7 @@ color:gray;
 }
 .education
 {
-	padding-bottom:10px;
+	padding-bottom:25px;
 	border-bottom-style:solid;
 	border-color:#6254541f;
 }
